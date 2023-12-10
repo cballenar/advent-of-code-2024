@@ -1,1 +1,27 @@
 # Advent of Code 2023!
+
+- [x] Day 1: Completed!
+- [x] Day 2: Completed!
+- [x] Day 3: Completed!
+- [x] Day 4: Completed!
+- [x] Day 5: Completed!
+- [x] Day 6: Completed!
+- [ ] Day 7: Forfeited...
+- [ ] Day 8:
+- [ ] Day 9:
+- [ ] Day 10:
+- [ ] Day 11:
+- [ ] Day 12:
+- [ ] Day 13:
+- [ ] Day 14:
+- [ ] Day 15:
+- [ ] Day 16:
+- [ ] Day 17:
+- [ ] Day 18:
+- [ ] Day 19:
+- [ ] Day 20:
+- [ ] Day 21:
+- [ ] Day 22:
+- [ ] Day 23:
+- [ ] Day 24:
+- [ ] Day 25:
