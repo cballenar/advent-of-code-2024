@@ -7,7 +7,7 @@
 - [x] Day 5: Completed!
 - [x] Day 6: Completed!
 - [ ] Day 7: Forfeited...
-- [ ] Day 8:
+- [x] Day 8: Completed Part 1. Forfeited Part 2.
 - [ ] Day 9:
 - [ ] Day 10:
 - [ ] Day 11:
